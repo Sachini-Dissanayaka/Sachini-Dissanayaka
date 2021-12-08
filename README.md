@@ -26,7 +26,7 @@ Here are some ideas to get you started:
  </a>
 &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://github.com/Sachini-Dissanayaka">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sachini-Dissanayaka&show_icons=true&theme=merko&count_private=true" alt="Sachini's GitHub Status" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sachini-Dissanayaka&show_icons=true&theme=merko&count_private=true" alt="Sachini's GitHub Stats" />
 </a>
 </p>
 

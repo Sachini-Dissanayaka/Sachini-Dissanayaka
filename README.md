@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=sachini-dissanayaka&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="sachini-dissanayaka" style="max-width: 100%;"></a> </p>
 
 <p align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachini-Dissanayaka&show_icons=true&theme=radical&count_private=true&hide=Jupyter Notebook,Batchfile&langs_count=7" alt="Sachini's Top lang" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachini-Dissanayaka&show_icons=true&theme=radical&count_private=true&hide=Jupyter Notebook,Batchfile&langs_count=6" alt="Sachini's Top lang" />
  </a>
 &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://github.com/Sachini-Dissanayaka">

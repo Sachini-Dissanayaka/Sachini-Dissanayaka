@@ -24,19 +24,19 @@ Here are some ideas to get you started:
 <h3 align="left">Github Stats:</h3>
 <p align="center">
   <a href="https://github.com/Sachini-Dissanayaka">
-   <img src="https://github-profile-trophy.vercel.app/?username=Hashara&theme=oldie&row=1&column=6&margin-w=15" alt="Sachini-Dissanayaka">
+   <img src="https://github-profile-trophy.vercel.app/?username=sachini-dissanayaka&theme=oldie&row=1&column=6&margin-w=15" alt="Sachini-Dissanayaka">
   </a>
   </p>
 
 <p align="center">
 <a href="https://github.com/Sachini-Dissanayaka">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachini&count_private=true&hide=Batchfile,Makefile&langs_count=6&theme=graywhite" alt="Sachini's Top lang" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachini-dissanayaka&count_private=true&hide=Batchfile,Makefile,Jupyter Notebook&langs_count=6&theme=graywhite" alt="Sachini's Top lang" />
  
 </a>
 
 
 <a href="https://github.com/Sachini-Dissanayaka">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sachini&show_icons=true&count_private=true&theme=graywhite" alt="Sachini's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sachini-dissanayaka&show_icons=true&count_private=true&theme=graywhite" alt="Sachini's GitHub Stats" />
  
 </a>
 </p>

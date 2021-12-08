@@ -1,6 +1,6 @@
 ### Hi, I'm Sachini 👋
 
-I am a Final Year Undergraduate at Computer Science and Engineering Department, University of Moratuwa, Sri Lanka. I'm a passionate programmer and a problem solver. I like building things and seeing people enjoy them. My goal is to gain knowledge and experience in my interested field of Engineering.  
+I am a Final Year Undergraduate at Department of Computer Science and Engineering, University of Moratuwa, Sri Lanka. I'm a passionate programmer and a problem solver. I like building things and seeing people enjoy them. My goal is to gain knowledge and experience in my interested field of Engineering.  
 
 Reach me through [LinkedIn ![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/sachini-dissanayaka/)
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
  </a>
 &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://github.com/Sachini-Dissanayaka">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sachini-Dissanayaka&show_icons=true&theme=merko&count_private=true" alt="Sachini's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sachini-Dissanayaka&show_icons=true&theme=merko&count_private=true" alt="Sachini's GitHub Status" />
 </a>
 </p>
 

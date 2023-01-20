@@ -1,6 +1,6 @@
 ### Hi, I'm Sachini 👋
 
-I am a Final Year Undergraduate at Department of Computer Science and Engineering, University of Moratuwa, Sri Lanka. I'm a passionate programmer and a problem solver. I like building things and seeing people enjoy them. I'm interested in machine learning, full-stack development, and mobile development.  
+I am a graduate from the Department of Computer Science and Engineering, University of Moratuwa, Sri Lanka. I'm a passionate programmer and a problem solver. I like building things and seeing people enjoy them. I'm interested in machine learning, full-stack development, and mobile development.  
 
 <!--
 **Sachini-Dissanayaka/Sachini-Dissanayaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
